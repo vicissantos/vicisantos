@@ -1,4 +1,4 @@
-|[](banner,jpg)
+[](banner,jpg)
 <h1 aling="cente">Título/h1>
 <h3 align="enter">Subtítulo</h3>
 <p align="center">
